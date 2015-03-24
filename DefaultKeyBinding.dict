@@ -36,6 +36,8 @@
         "f"     = ("insertText:", "\U21E2");  /* b       dotted right */
         "p"     = ("insertText:", "\U21E1");  /* p       dotted up */
         "n"     = ("insertText:", "\U21E3");  /* n       dotted down */
+        "r"     = ("insertText:", "👉"); /* r       finger right */
+        "l"     = ("insertText:", "👈"); /* r       finger right */
 
         "^h"    = ("insertText:", "\U2196");  /* C-h     home */
         "h"     = ("insertText:", "\U2198");  /* h       end */
