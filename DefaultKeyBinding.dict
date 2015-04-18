@@ -38,6 +38,8 @@
         "n"     = ("insertText:", "\U21E3");  /* n       dotted down */
         "r"     = ("insertText:", "👉"); /* r       finger right */
         "l"     = ("insertText:", "👈"); /* l       finger left */
+        "^1"     = ("insertText:", "💯"); /* l       100 */
+        "1"     = ("insertText:", "💯"); /* l       100 */
 
         "^h"    = ("insertText:", "\U2196");  /* C-h     home */
         "h"     = ("insertText:", "\U2198");  /* h       end */
